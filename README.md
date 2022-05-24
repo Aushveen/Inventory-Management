@@ -1,4 +1,4 @@
-# Shopify-Backend-Intern-Challenge
+# Inventory Management
 
 This is my web application, coded fully in Java.
 In order to use it, simply run the application and then follow the instructions displayed!
